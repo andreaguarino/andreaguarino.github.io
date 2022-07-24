@@ -6,7 +6,7 @@
 name: Andrea Guarino
 
 # Short bio or description (displayed in the header)
-description: Software engineer with a passion for functional programming languages.
+description: Software engineer with a passion for static analysis and functional programming languages.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/5097693
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: andre989
+  github: andreaguarino
   instagram:
-  linkedin:
+  linkedin: andrea-guarino
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: andre_mnon
